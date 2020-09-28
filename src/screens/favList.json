@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Burger",
+    "time": 30,
+    "steps": ["step1", "step2", "step3"],
+    "image": "../img/burgerartsy.jpg"
+  },
+  {
+    "name": "Salad",
+    "time": 30,
+    "steps": ["step1", "step2", "step3"],
+    "image": "../img/burgerartsy.jpg"
+  }
+]
